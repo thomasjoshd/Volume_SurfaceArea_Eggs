@@ -1,8 +1,8 @@
 <a href="https://thomasjoshd.github.io/">Home</a>
          
 # Volume_SurfaceArea_Eggs
-A code to produce a volume and surface area estimate on a 2D image of an egg assuming cylindrical symmetry.
-
+A code to produce a volume and surface area estimate on a 2D image of an egg assuming cylindrical symmetry.  The code was origionally developed for the publication: 
+<a href="https://aapt.scitation.org/doi/full/10.1119/10.0001834">"The Mass of Hatchling Tyrannosaur and Sauropod Dinosaurs"</a>
 
 You just need to download and run VolumeArea.py.  Works best with python 3.  Requires the following libraries:
 cv2 (openCV),
